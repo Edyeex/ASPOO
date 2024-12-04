@@ -9,6 +9,6 @@ Assim como as dependencias da linguagem usada (JAVA)... mais as necessarias para
 ## SpringData
 ## LOMBOK
 ## Gradle 
-Entre outras, através do **[Spring Initializr]**(https://start.spring.io/)
+Entre outras, através do **[Spring Initializr](https://start.spring.io/)**
 
 Slimples, porém complexo
